@@ -1,0 +1,17 @@
+{
+  "name": "fuel_delivery_pricing_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Aleksandr Dubovik",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "decimal.js": "^10.6.0"
+  }
+}
